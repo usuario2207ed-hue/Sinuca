@@ -43,7 +43,7 @@ script.js → Lógica do jogo e física das bolas.
 🖥️ Requisitos
 
 1. Acesse o app neste link:  
-   👉 https://usuario2207ed-hue.github.io/Dashboard-PC-Monitor/ 
+   👉 https://usuario2207ed-hue.github.io/Sinuca/
 
 2. No navegador do **celular (Chrome/Edge)**:  
    - Abra o menu (⋮)  
